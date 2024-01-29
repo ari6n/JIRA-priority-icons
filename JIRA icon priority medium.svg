@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="JIRA icon priority medium.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="64.1875"
+     inkscape:cx="5.4605648"
+     inkscape:cy="8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     id="g452"
+     transform="translate(-0.01702993,-0.15663378)">
+    <path
+       id="rect413"
+       style="fill:#ffcc00;stroke-width:1.00815"
+       d="m 3.105619,4.9818754 h 9.961655 V 7.0368843 H 3.105619 Z m 10.93184,1.0275049 a 1.0448358,1.0257039 0 0 1 -1.044836,1.0257039 1.0448358,1.0257039 0 0 1 -1.044835,-1.0257039 1.0448358,1.0257039 0 0 1 1.044835,-1.0257039 1.0448358,1.0257039 0 0 1 1.044836,1.0257039 z m -9.8972794,0 A 1.0448358,1.0257039 0 0 1 3.0953438,7.0350842 1.0448358,1.0257039 0 0 1 2.050508,6.0093803 1.0448358,1.0257039 0 0 1 3.0953438,4.9836764 1.0448358,1.0257039 0 0 1 4.1401796,6.0093803 Z" />
+    <path
+       id="rect415"
+       style="fill:#ffcc00;stroke-width:1.00815"
+       d="M 3.0780623,9.2746534 H 13.039717 V 11.329662 H 3.0780623 Z M 14.037459,10.302158 a 1.0448358,1.0257039 0 0 1 -1.044836,1.025704 1.0448358,1.0257039 0 0 1 -1.044835,-1.025704 1.0448358,1.0257039 0 0 1 1.044835,-1.0257036 1.0448358,1.0257039 0 0 1 1.044836,1.0257036 z m -9.8972794,0 A 1.0448358,1.0257039 0 0 1 3.0953438,11.327862 1.0448358,1.0257039 0 0 1 2.050508,10.302158 1.0448358,1.0257039 0 0 1 3.0953438,9.2764544 1.0448358,1.0257039 0 0 1 4.1401796,10.302158 Z" />
+  </g>
+</svg>
